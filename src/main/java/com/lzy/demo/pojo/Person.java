@@ -1,5 +1,8 @@
 package com.lzy.demo.pojo;
 
+/**
+ * 人类，用于集合测试
+ */
 public class Person {
     private String name;
     private Integer id;
